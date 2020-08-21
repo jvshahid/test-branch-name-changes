@@ -1,0 +1,3 @@
+[submodule "src/github.com/test-branch-name-changes"]
+	path = src/github.com/test-branch-name-changes
+	url = git@github.com:jvshahid/test-branch-name-changes.git
